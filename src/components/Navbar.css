@@ -1,0 +1,47 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(40, 29, 204);
+    position:sticky;
+    cursor: pointer;
+  
+}
+h1{
+    color: azure;
+    text-decoration: none;
+}
+.icon{
+    font-size: 3rem;
+    color: yellow;
+}
+.coin-search{
+    background-color: #4801ff;
+    
+}
+
+
+.c {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    color: #f8f8f8;
+    border: 2px,solid,white;
+}
+
+.c input{
+    
+    padding-left: 100px;
+    width: 300px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    border-radius:18px;
+   
+}
+
+
+
+.purple{
+    color: yellow;
+}
