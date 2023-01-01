@@ -13,11 +13,7 @@ const Navbar = () => {
             
             
         </div>
-        <span className="coin-search">
-            <form className='c' >
-              <input type="text" placeholder='search-here' />
-            </form>
-            </span>
+        
     </Link>
   )
 }
