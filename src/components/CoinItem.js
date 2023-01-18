@@ -15,7 +15,7 @@ const coinitem = (props) => {
         </div>
        
         <p>${props.coins.current_price.toLocaleString()}</p>
-        <p> {formatPercent(props.coins.price_change_percentage_24h)}%</p>
+        <p> {formatPercent(props.coins.price_change_percentage_24h)}</p>
         <p className='hide-mobile'>${props.coins.total_volume.toLocaleString()}</p>
         <p className='hide-mobile'>${props.coins.market_cap.toLocaleString()}</p>
     </div>
